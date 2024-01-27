@@ -1,0 +1,19 @@
+<style>body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.headerMain {
+
+    margin-bottom: 75px;
+    background-color: #222;
+    background: no-repeat center center;
+    background-size: cover;
+    background-image: url("https://i.picsum.photos/id/360/1925/1280.jpg?hmac=vX9T-qgnqfOUqLnxlsxCZfkKn_wi-9vtPKdbq7H6EgU");
+}
+
+.headingtext {
+    color: white;
+    padding: 150px 0;
+}
+
+</style>
